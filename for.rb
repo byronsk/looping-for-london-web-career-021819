@@ -7,10 +7,10 @@ def using_for
 end
 =end
 
-def using_while
+def using_for
  while checklist < 10
   puts "Wingardium Leviosa"
-  using_while += 10
+  using_for += 10
  end
 end
 
