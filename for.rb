@@ -11,6 +11,7 @@ def using_while
   puts "Wingardium Leviosa"
   using_while += 10
 end
+end
 
 
 
