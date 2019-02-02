@@ -6,6 +6,8 @@ def using_for
  end
 end
 
+
+=begin
 def using_while
   checklist = 0
   while checklist < 10
@@ -13,5 +15,5 @@ def using_while
   checklist += 1
  end
 end
-
+=end
 
