@@ -6,5 +6,11 @@ def using_for
  end
 end
 
+def using_while
+  checklist < 10
+  puts "Wingardium Leviosa"
+  using_while += 10
+end
+
 
 
